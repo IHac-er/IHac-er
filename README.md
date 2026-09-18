@@ -51,12 +51,17 @@ whoami = {
 
 <div align="center">
 
-[![sequencekit](https://github-readme-stats.vercel.app/api/pin/?username=IHac-er&repo=sequencekit&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7)](https://github.com/IHac-er/sequencekit)
-[![ender-chess-engine](https://github-readme-stats.vercel.app/api/pin/?username=IHac-er&repo=ender-chess-engine&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7)](https://github.com/IHac-er/ender-chess-engine)
+**[sequencekit](https://github.com/IHac-er/sequencekit)**: lightweight Python utility library for clean, consistent, reusable sequence operations
 
-<!-- add more project cards here: copy a line above and change repo=NAME and the link -->
+[![PyPI](https://img.shields.io/pypi/v/sequencekit?style=for-the-badge&labelColor=1a1b27&color=7aa2f7&logo=pypi&logoColor=7aa2f7)](https://pypi.org/project/sequencekit/)
+![Stars](https://img.shields.io/github/stars/IHac-er/sequencekit?style=for-the-badge&labelColor=1a1b27&color=bb9af7&logo=github&logoColor=bb9af7)
 
-[![PyPI](https://img.shields.io/badge/sequencekit_on_PyPI-1a1b27?style=for-the-badge&logo=pypi&logoColor=7aa2f7)](https://pypi.org/project/sequencekit/)
+**[ender-chess-engine](https://github.com/IHac-er/ender-chess-engine)**: homebrew chess engine aspiring to be Stockfish one day (in progress)
+
+![Language](https://img.shields.io/github/languages/top/IHac-er/ender-chess-engine?style=for-the-badge&labelColor=1a1b27&color=7aa2f7&logo=python&logoColor=7aa2f7)
+![Last commit](https://img.shields.io/github/last-commit/IHac-er/ender-chess-engine?style=for-the-badge&labelColor=1a1b27&color=bb9af7)
+
+<!-- add more projects: copy a block above and change the repo name -->
 
 </div>
 
@@ -65,12 +70,6 @@ whoami = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=IHac-er&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=IHac-er&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHac-er&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IHac-er&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
 
 </div>
 

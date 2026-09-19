@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Tharun%20R&fontSize=58&fontColor=c0caf5&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/intro.png" width="100%" alt="Tharun R" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=Building%2C+breaking%2C+sleeping...+repeat;turning+caffeine-free+ideas+into+questionable+amounts+of+code;currently+building%2C+breaking%2C+and+fixing+things;DSA+by+day%2C+random+projects+by+night;shipping+side+projects+%26+collecting+Git+commits;somewhere+between+%27it+works%27+and+%27I+can+optimize+this%27" alt="Typing SVG" />
 
@@ -8,21 +8,22 @@
 
 <br>
 
-<h2 align="center">~/about</h2>
+<h2 align="center">ABOUT</h2>
 
-```python
-whoami = {
-    "name": "Tharun R",
-    "role": "Student",
-    "timezone": "GMT+5:30",
-    "daily_driver": "Python",
-    "focus": ["Automation", "Testing", "Algorithms", "Chess engines"],
-    "currently_building": "ender-chess-engine",
-    "looking_for": "ideas & contributors for sequencekit",
-}
-```
+<div align="center">
 
-<h2 align="center">~/tech-stack</h2>
+![Role](https://img.shields.io/badge/ROLE-Student-3b4261?style=for-the-badge&labelColor=1a1b27)
+![Timezone](https://img.shields.io/badge/TIMEZONE-GMT%2B5%3A30-3b4261?style=for-the-badge&labelColor=1a1b27)
+![Daily driver](https://img.shields.io/badge/DAILY%20DRIVER-Python-3b4261?style=for-the-badge&labelColor=1a1b27&logo=python&logoColor=7aa2f7)
+
+![Focus](https://img.shields.io/badge/FOCUS-Automation%2C%20Testing%2C%20Algorithms%2C%20Chess%20Engines-3b4261?style=for-the-badge&labelColor=1a1b27)
+
+![Building](https://img.shields.io/badge/BUILDING-ender--chess--engine-3b4261?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=bb9af7)
+![Looking for](https://img.shields.io/badge/LOOKING%20FOR-sequencekit%20ideas%20%26%20contributors-3b4261?style=for-the-badge&labelColor=1a1b27&logo=pypi&logoColor=bb9af7)
+
+</div>
+
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
 
@@ -47,7 +48,7 @@ whoami = {
 
 </div>
 
-<h2 align="center">~/projects</h2>
+<h2 align="center">PROJECTS</h2>
 
 <div align="center">
 
@@ -63,17 +64,7 @@ whoami = {
 
 <!-- add more projects: copy a block above and change the repo name -->
 
-</div>
-
-<h2 align="center">~/stats</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=IHac-er&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-
-</div>
-
-<h2 align="center">~/connect</h2>
+<h2 align="center">CONNECT</h2>
 
 <div align="center">
 
